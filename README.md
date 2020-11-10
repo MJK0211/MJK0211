@@ -1,16 +1,19 @@
 ### Hi there 👋
+@@ -1,4 +1,4 @@
+<div align=right>
+<div>
 
-<!--
-**MJK0211/MJK0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F39roc)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+@@ -10,9 +10,9 @@
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Badge Icon -->
+<div align=right>
+<div>
+
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/channel/UChYV63qfqVq8z84Dkv8cOvQ)](https://www.youtube.com/channel/UChYV63qfqVq8z84Dkv8cOvQ)
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UChYV63qfqVq8z84Dkv8cOvQ)](https://www.youtube.com/channel/UChYV63qfqVq8z84Dkv8cOvQ)
+  <!-- Github stats -->
+[![39roc's github stats](https://github-readme-stats.vercel.app/api?username=39roc&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
